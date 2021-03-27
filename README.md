@@ -1,6 +1,6 @@
 # Fast typing app with vue 3
 
-![Alt Text](http://fasttyping.codemonzy.com/ss.gif)
+![Alt Text](http://fasttyping.codemonzy.com/ss2.gif)
 
 
 
