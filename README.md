@@ -1,4 +1,8 @@
-# fast-typing
+# Fast typing app with vue 3
+
+![Alt Text](http://fasttyping.codemonzy.com/ss.gif)
+
+
 
 ## Project setup
 ```
