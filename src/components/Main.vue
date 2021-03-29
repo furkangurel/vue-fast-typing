@@ -91,7 +91,7 @@ export default {
     truePercent () {
       const percent = (100 / this.dks)
       const val = (percent * this.trueCount)
-      return isNaN(val) ? 0 : val
+      return isNaN(val) ? 0 : val.toFixed(2)
     }
   },
 
