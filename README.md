@@ -1,5 +1,8 @@
 # Fast typing app with vue 3
 
+[Live DEMO](http://fasttyping.codemonzy.com/)
+
+
 ![Alt Text](http://fasttyping.codemonzy.com/ss2.gif)
 
 
