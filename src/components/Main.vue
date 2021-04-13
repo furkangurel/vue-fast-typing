@@ -107,6 +107,7 @@ export default {
       this.timer = 60
       this.isTrue = true
       this.isRunning = false
+      this.writingWord = ''
     },
 
     getWords () {
